@@ -1,0 +1,11 @@
+"material-symbols-outlined" - it is used for icons (smart_toy)- symbol and (sned)- button
+* --- it applies all elements on webpage(html)
+Poppins - it is font family 
+if class used in html  - (.)in css 
+.chatbox .outgoing{
+    margin: 20px 0;
+    justify-content: flex-end;
+
+} ---- for chat ends in css left 
+<textarea> and <span>, the code css has been written
+visibility: hidden; in css(span) 
